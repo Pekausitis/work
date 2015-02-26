@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="jquery-1.8.3.min.js" type="text/javascript"></script>
+    <link rel='stylesheet' type='text/css' href='style.css'>
+    <script src="scripts.js" type="text/javascript"></script>
+    <script src="popcorn-complete.min.js" type="text/javascript"></script>
+    <script>
+       
+    </script>
+</head>
+<body>
+<div class='audio'>
+<div>audio_15_0004.wav</div>
+<audio class='file' id='F_1' src='/home/ib12107/Darbvirsma/work/lvspeech/data/keywords/audio/audio_15_0004.wav' controls></audio>
+<div class='text'>
+<span class='word' id='W_1_1' title=' @start=5 @end=39' data-start='0.05' data-end='0.39'>saeimas</span>
+<span class='word' id='W_1_2' title=' @start=39 @end=89' data-start='0.39' data-end='0.89'>komisija</span>
+<span class='word' id='W_1_3' title=' @start=89 @end=146' data-start='0.89' data-end='1.46'>koalīcijas</span>
+<span class='word' id='W_1_4' title=' @start=146 @end=199' data-start='1.46' data-end='1.99'>deputāti</span>
+<span class='word' id='W_1_5' title=' @start=199 @end=263' data-start='1.99' data-end='2.63'>aizstāvēja</span>
+<span class='word' id='W_1_6' title=' @start=263 @end=346' data-start='2.63' data-end='3.46'>pašreizējo</span>
+<span class='word' id='W_1_7' title=' @start=346 @end=351' data-start='3.46' data-end='3.51'><sil></span>
+<span class='word' id='W_1_8' title=' @start=351 @end=370' data-start='3.51' data-end='3.7'>no</span>
+<span class='word' id='W_1_9' title=' @start=370 @end=432' data-start='3.7' data-end='4.32'>gaidīšanas</span>
+<span class='word' id='W_1_10' title=' @start=432 @end=451' data-start='4.32' data-end='4.51'>tā</span>
+<span class='word' id='W_1_11' title=' @start=451 @end=503' data-start='4.51' data-end='5.03'>tiekot</span>
+<span class='word' id='W_1_12' title=' @start=503 @end=506' data-start='5.03' data-end='5.06'><sil></span>
+<span class='word' id='W_1_13' title=' @start=506 @end=528' data-start='5.06' data-end='5.28'>arī</span>
+<span class='word' id='W_1_14' title=' @start=528 @end=587' data-start='5.28' data-end='5.87'>pārmetumus</span>
+<span class='word' id='W_1_15' title=' @start=587 @end=603' data-start='5.87' data-end='6.03'>par</span>
+<span class='word' id='W_1_16' title=' @start=603 @end=651' data-start='6.03' data-end='6.51'>valdības</span>
+<span class='word' id='W_1_17' title=' @start=651 @end=715' data-start='6.51' data-end='7.15'>bezdarbība</span>
+<span class='word' id='W_1_18' title=' @start=715 @end=773' data-start='7.15' data-end='7.73'>pozīcija</span>
+<span class='word' id='W_1_19' title=' @start=773 @end=822' data-start='7.73' data-end='8.22'>norāda</span>
+<span class='word' id='W_1_20' title=' @start=822 @end=865' data-start='8.22' data-end='8.65'>uzsverot</span>
+<span class='word' id='W_1_21' title=' @start=865 @end=877' data-start='8.65' data-end='8.77'>ka</span>
+<span class='word' id='W_1_22' title=' @start=877 @end=933' data-start='8.77' data-end='9.33'>jautājums</span>
+<span class='word' id='W_1_23' title=' @start=933 @end=996' data-start='9.33' data-end='9.96'>izdiskutēts</span>
+<span class='word' id='W_1_24' title=' @start=996 @end=1049' data-start='9.96' data-end='10.49'>sešās</span>
+<span class='word' id='W_1_25' title=' @start=1049 @end=1094' data-start='10.49' data-end='10.94'>labības</span>
+<span class='word' id='W_1_26' title=' @start=1094 @end=1141' data-start='10.94' data-end='11.41'>sēdēs</span>
+<span class='word' id='W_1_27' title=' @start=1141 @end=1149' data-start='11.41' data-end='11.49'><sil></span>
+<span class='word' id='W_1_28' title=' @start=1149 @end=1156' data-start='11.49' data-end='11.56'><sil></span>
+<span class='word' id='W_1_29' title=' @start=1156 @end=1175' data-start='11.56' data-end='11.75'><sil></span>
+<span class='word' id='W_1_30' title=' @start=1175 @end=1218' data-start='11.75' data-end='12.18'>turpina</span>
+<span class='word' id='W_1_31' title=' @start=1218 @end=1285' data-start='12.18' data-end='12.85'>pieprasījumu</span>
+<span class='word' id='W_1_32' title=' @start=1285 @end=1330' data-start='12.85' data-end='13.3'>komisijas</span>
+<span class='word' id='W_1_33' title=' @start=1330 @end=1412' data-start='13.3' data-end='14.12'>priekšsēdētājs</span>
+<span class='word' id='W_1_34' title=' @start=1412 @end=1425' data-start='14.12' data-end='14.25'><sil></span>
+<span class='word' id='W_1_35' title=' @start=1425 @end=1430' data-start='14.25' data-end='14.3'><sil></span>
+<span class='word' id='W_1_36' title=' @start=1430 @end=1474' data-start='14.3' data-end='14.74'>zatlera</span>
+<span class='word' id='W_1_37' title=' @start=1474 @end=1484' data-start='14.74' data-end='14.84'>ir</span>
+<span class='word' id='W_1_38' title=' @start=1484 @end=1503' data-start='14.84' data-end='15.03'>tas</span>
+<span class='word' id='W_1_39' title=' @start=1503 @end=1506' data-start='15.03' data-end='15.06'><sil></span>
+<span class='word' id='W_1_40' title=' @start=1506 @end=1514' data-start='15.06' data-end='15.14'><sil></span>
+<span class='word' id='W_1_41' title=' @start=1514 @end=1558' data-start='15.14' data-end='15.58'>domāts</span>
+<span class='word' id='W_1_42' title=' @start=1558 @end=1607' data-start='15.58' data-end='16.07'>ražuks</span>
+<span class='word' id='W_1_43' title=' @start=1607 @end=1610' data-start='16.07' data-end='16.1'></s></span>
+<span class='word' id='W_1_44' title=' @start=1610 @end=1610' data-start='16.1' data-end='16.1'></s></span>
+</div>
+<div class='keywords'>
+<div class='keyword word' id='K_1_1' title=' @start=5 @end=39 @conf=0.0' data-start='0.05' data-end='0.39'>saeimas <span class='kstart'>5</span>-<span class='kend'>39</span></div>
+</div>
+</div>
+</body>
+</html>

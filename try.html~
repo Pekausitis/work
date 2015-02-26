@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="jquery-1.8.3.min.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href='style.css'><script src="scripts.js" type="text/javascript"></script>
+<script src="popcorn-complete.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="demo"></div>
+
+<script>
+var text = '{"audio_15_0011":{"transcription":"man(62;78) mazliet(78;106) man(106;121) liekas(121;161) ka(161;170) tomer(170;199) nu(199;207) tad(207;221) neatkarigi(228;283) vertet(283;320) vai(320;335) lemumu(335;380) par(380;391) laika(397;430) vaidzetu(430;469) bet(469;508) citi(508;549) redz(549;572) palicis(572;613) jautajums(613;653) ir(653;662) kur(666;693) saja(693;717) gadijuma(717;749) nu(749;760) kada(760;801) ne(848;895) nu(895;928) zinama(928;962) mera(962;992) sausaka(992;1041) ietekme(1041;1080) saldetas(1080;1121) kas(1121;1136) ir(1136;1149) ta(1149;1159) ka(1159;1169) koalicija(1169;1234) koalicijas(1234;1278) padoma(1278;1335) un(1335;1345) bikin(1345;1405) sadu(1405;1440) tad(1440;1518)
+ jau(1518;1541)"}}'
+
+var obj = JSON.parse(text);
+
+document.getElementById("demo").innerHTML =
+obj.audio_15_0011.transcription ;
+
+
+</script>
+
+</body>
+</html>
